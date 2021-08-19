@@ -1,0 +1,15 @@
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/bin/Debug/net5.0/Projecteuler.deps.json
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/bin/Debug/net5.0/Projecteuler.runtimeconfig.json
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/bin/Debug/net5.0/Projecteuler.runtimeconfig.dev.json
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/bin/Debug/net5.0/Projecteuler.dll
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/bin/Debug/net5.0/ref/Projecteuler.dll
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/bin/Debug/net5.0/Projecteuler.pdb
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/obj/Debug/net5.0/Projecteuler.csprojAssemblyReference.cache
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/obj/Debug/net5.0/Projecteuler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/obj/Debug/net5.0/Projecteuler.AssemblyInfoInputs.cache
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/obj/Debug/net5.0/Projecteuler.AssemblyInfo.cs
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/obj/Debug/net5.0/Projecteuler.csproj.CoreCompileInputs.cache
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/obj/Debug/net5.0/Projecteuler.dll
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/obj/Debug/net5.0/ref/Projecteuler.dll
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/obj/Debug/net5.0/Projecteuler.pdb
+/Users/guilhermog/Projetos/MyProjects/ProjectEuler/obj/Debug/net5.0/Projecteuler.genruntimeconfig.cache
