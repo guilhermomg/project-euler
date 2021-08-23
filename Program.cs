@@ -13,7 +13,8 @@ namespace ProjectEuler
             //Console.WriteLine(LargestPalindromeProduct.Run(999));
             //Console.WriteLine(SmallestMultiple.Run(20));
             //Console.WriteLine(SumSquareDifference.Run(100));
-            Console.WriteLine(FindNthPrime.Run(10001));
+            //Console.WriteLine(FindNthPrime.Run(10001));
+            Console.WriteLine(LargestProductInSeries.Run(13));
         }
     }
 }
